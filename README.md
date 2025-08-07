@@ -1,13 +1,13 @@
-<div  display="flex">
-   <div >
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
-   </div>
-  <div>
-  # 👋 Salut, je suis **Soufiane El Basraoui**
-  ### 🧑‍💻 Développeur Web Full-Stack | Maroc 🇲🇦  
-  Passionné par le clean code, l'innovation et l'apprentissage continu.
+<div align="center">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coding Workspace" width="300px" />
 </div>
-</div>
+
+<h1 align="center">👋 Salut, je suis Soufiane El Basraoui</h1>
+
+<p align="center">
+  🧑‍💻 Développeur Web Full-Stack basé au 🇲🇦 Maroc <br>
+  Passionné par le clean code, l'innovation, et l'apprentissage continu.
+</p>
 
 ---
 
@@ -48,13 +48,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/votre-lien-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
+    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
   <a href="https://soufiane1967.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-> 🎧 Je code en musique, café à la main ☕, avec passion et curiosité.
+> 🎧
