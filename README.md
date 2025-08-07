@@ -1,11 +1,12 @@
-<div align="center">
-
+<div  display="flex">
+   <div >
   <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
-
+   </div>
+  <div>
   # 👋 Salut, je suis **Soufiane El Basraoui**
   ### 🧑‍💻 Développeur Web Full-Stack | Maroc 🇲🇦  
   Passionné par le clean code, l'innovation et l'apprentissage continu.
-
+</div>
 </div>
 
 ---
