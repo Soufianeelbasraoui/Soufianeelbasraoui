@@ -1,14 +1,9 @@
-<div align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Coding Workspace" width="300px" />
-</div>
+<h1 align="center">Hi 👋, I'm Soufiane El Basraoui</h1>
+<h3 align="center">A passionate Web FullStack Developer from Morocco 🇲🇦</h3>
 
-<h1 align="center">👋 Salut, je suis Soufiane El Basraoui</h1>
-
-<p align="center">
-  🧑‍💻 Développeur Web Full-Stack basé au 🇲🇦 Maroc <br>
-  Passionné par le clean code, l'innovation, et l'apprentissage continu.
+<p align="right">
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="dev" width="300" align="right"/>
 </p>
-
 ---
 
 ## 🚀 Compétences Techniques
