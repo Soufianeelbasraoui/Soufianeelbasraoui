@@ -1,13 +1,14 @@
-<h1 align="center">Hi 👋, I'm Soufiane El Basraoui</h1>
-<h3 align="center">A passionate Web FullStack Developer from Morocco 🇲🇦</h3>
+<div align="center">
 
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="Workspace" width="40%" />
 
+  # 👋 Salut, je suis **Soufiane El Basraoui**
+  ### 🧑‍💻 Développeur Web Full-Stack | Maroc 🇲🇦  
+  Passionné par le clean code, l'innovation et l'apprentissage continu.
 
-<p align="center">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="dev" width="350"  align="right"/>
-</p>
+</div>
 
-
+---
 
 ## 🚀 Compétences Techniques
 
@@ -31,6 +32,7 @@
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
 
+---
 
 
 
@@ -38,13 +40,13 @@
 
 <p align="center">
   <a href="https://www.linkedin.com/in/votre-lien-linkedin">
-    <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" />
   </a>
   <a href="https://soufiane1967.github.io">
-    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=github&logoColor=white" alt="Portfolio" />
   </a>
 </p>
 
-
+---
 
 > 🎧 Je code en musique, café à la main ☕, avec passion et curiosité.
