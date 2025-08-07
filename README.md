@@ -2,7 +2,7 @@
 <h3 align="center">A passionate Web FullStack Developer from Morocco 🇲🇦</h3>
 
 <p align="right">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="dev" width="300" align="right"/>
+  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="dev" width="350" />
 </p>
 
 - 🔭 I’m currently working on **a Travel Agency Web App**
