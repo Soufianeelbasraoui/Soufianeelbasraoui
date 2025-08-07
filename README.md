@@ -1,15 +1,8 @@
 <h1 align="center">Hi 👋, I'm Soufiane El Basraoui</h1>
 <h3 align="center">A passionate Web FullStack Developer from Morocco 🇲🇦</h3>
 
-<p align="right">
-  <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="dev" width="350" />
-</p>
 
-- 🔭 I’m currently working on **a Travel Agency Web App**
-- 🌱 I’m currently learning **React, Node.js & Laravel**
-- 📫 How to reach me: **soufianeelbasraoui@gmail.com**
-- 🌐 Portfolio: [soufiane1967.github.io](https://soufiane1967.github.io/)
-- ⚡ Fun fact: **I love building while sipping coffee ☕**
+
 
 
 
