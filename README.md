@@ -7,7 +7,7 @@
        📍 Basé au Maroc | 🌐 Disponible pour des projets internationaux.</p>
   </div>
   <div align="right">
-    <img src="https://i.ibb.co/XJ5yQ9d/banner-dev.png" alt="Soufiane - Full Stack Developer" width="250" style="border-radius: 12px;">
+    <img src="https://github.com/SP-XD/SP-XD/blob/main/images/dev-working_rounded.gif?raw=true" alt="dev" width="300" align="right"/>
   </div>
 </div>
 
