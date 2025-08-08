@@ -1,36 +1,33 @@
-# Salut, je suis Soufiane El Basraoui  
-**Créateur de solutions**  
+# 👋 Salut, je suis Sofiane El Basraoui | Créateur de solutions
 
-- 🍟 Passionné par la conception d’applications web modernes, performantes et optimisées.  
-- 🍟 Basé au Maroc | � Disponible pour des projets internationaux.  
+🌟 **Passionné par la conception d'applications web modernes, performantes et optimisées.**
 
----
-
-## Compétences techniques  
-
-### Front End:  
-- HTML  
-- 📞 CSS  
-- 📞 JS  
-
-### Back-End:  
-- PHP  
-- 📞 Node.js  
-- 🍟 Express.js  
-
-### Bases de données:  
-- MySQL  
-- 📞 MongoDB  
+📍 **Basé au Maroc** | 🌐 **Disponible pour des projets internationaux**
 
 ---
 
-## Statistiques Github  
-![Vos statistiques GitHub](https://github-readme-stats.vercel.app/api?username=votreusername&show_icons=true&theme=radical)
+## 🛠️ Compétences techniques
 
-## Contact  
-- Email: soufiane@example.com  
-- LinkedIn: [linkedin.com/in/soufiane-el-basraui](https://www.linkedin.com/in/soufiane-el-basraui)  
-- Github: [github.com/soufiane-el-bassrooui](https://github.com/soufiane-el-bassrooui)  
+### Frontend:
+- ![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-purple) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow)
 
-### Outils & DevOps:  
-> Le code est un art, et chaque ligne est un coup de pinceau.
+### Back-End:
+- ![PHP](https://img.shields.io/badge/PHP-7-blue) ![Node.js](https://img.shields.io/badge/Node.js-green) ![Express.js](https://img.shields.io/badge/Express.js-gray)
+
+### Bases de données:
+- ![MySQL](https://img.shields.io/badge/MySQL-blue) ![MongoDB](https://img.shields.io/badge/MongoDB-green) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-lightblue) ![Firebase](https://img.shields.io/badge/Firebase-orange)
+
+### 🛠️ Outils & DevOps:
+- ![Git](https://img.shields.io/badge/Git-black) ![Docker](https://img.shields.io/badge/Docker-blue)
+
+---
+
+## 📊 Statistiques GitHub
+
+📧 **Email:** sofufane@example.com  
+💼 **LinkedIn:** [linkcoin.com/in/sofiane-el-basraui](https://linkcoin.com/in/sofiane-el-basraui)  
+👨‍💻 **GitHub:** [github.com/sofiane-el-basraoui](https://github.com/sofiane-el-basraoui)
+
+---
+
+✨ **Le code est un art, et chaque ligne est un coup de pinceau!** 🎨
