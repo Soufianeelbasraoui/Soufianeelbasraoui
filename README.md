@@ -8,21 +8,31 @@
 
 ## 🛠️ Compétences techniques
 
-### Frontend:
-- ![HTML](https://img.shields.io/badge/HTML-5-orange) ![CSS](https://img.shields.io/badge/CSS-3-purple) ![Bootstrap](https://img.shields.io/badge/Bootstrap-5-blue) ![Tailwind](https://img.shields.io/badge/TailwindCSS-3-teal) ![JavaScript](https://img.shields.io/badge/JavaScript-yellow) ![React](https://img.shields.io/badge/React-18-lightblue)
+**🎨 Front-End :**  
+![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=flat-square&logo=tailwind-css&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7E017?style=flat-square&logo=javascript&logoColor=black)
 
-### Back-End:
-- ![Laravel](https://img.shields.io/badge/Laravel-9-red) ![PHP](https://img.shields.io/badge/PHP-8-blue) ![Node.js](https://img.shields.io/badge/Node.js-18-green) ![Express.js](https://img.shields.io/badge/Express.js-4-gray)
+**⚙️ Back-End :**  
+![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
+![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
+![Node.js](https://img.shields.io/badge/Node.js-43853D?style=flat-square&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white)
 
-### Bases de données:
-- ![MySQL](https://img.shields.io/badge/MySQL-8.0-blue) ![MongoDB](https://img.shields.io/badge/MongoDB-6.0-green)
+**🗄 Bases de données :**  
+![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
+![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
-### Outils & DevOps:
-- ![Postman](https://img.shields.io/badge/Postman-10-orange) ![Docker](https://img.shields.io/badge/Docker-20.10-blue) ![Git](https://img.shields.io/badge/Git-2.34-black) ![GitHub](https://img.shields.io/badge/GitHub-2.0-darkgreen) ![GitLab](https://img.shields.io/badge/GitLab-15.0-purple)
+**🛠 Outils & DevOps :**  
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=flat-square&logo=docker&logoColor=white)
+![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
+![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![GitLab](https://img.shields.io/badge/GitLab-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 
 ---
-
-## 📊 Statistiques GitHub
 
 📧 **Email:** sofufane@example.com  
 💼 **LinkedIn:** [linkcoin.com/in/sofiane-el-basraui](https://www.linkcoin.com/in/sofiane-el-basraui)  
