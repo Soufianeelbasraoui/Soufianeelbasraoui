@@ -35,7 +35,7 @@
 ---
 
 📧 **Email:** soufianeelbasraoui0@gmail.com  
-💼 **LinkedIn:** [linkcoin.com/in/sofiane-el-basraui](www.linkedin.com/in/soufiane-el-basraoui)  
+💼 **LinkedIn:** [linkcoin.com/in/sofiane-el-basraui](https://www.linkedin.com/in/soufiane-el-basraoui)  
 👨‍💻 **GitHub:** [github.com/sofiane-el-basraoui](https://github.com/Soufianeelbasraoui)
 
 ---
