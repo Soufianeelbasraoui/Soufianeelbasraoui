@@ -1,4 +1,4 @@
-# 👋 Salut, je suis Sofiane El Basraoui | Créateur de solutions
+# 👋 Salut, je suis Sofiane El Basraoui 
 
 🌟 **Passionné par la conception d'applications web modernes, performantes et optimisées.**
 
