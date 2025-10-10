@@ -2,7 +2,7 @@
 
 🌟 **Passionné par la conception d'applications web modernes, performantes et optimisées.**
 
-📍 **Basé au Maroc** | 🌐 **Disponible pour des projets internationaux**
+
 
 ---
 
