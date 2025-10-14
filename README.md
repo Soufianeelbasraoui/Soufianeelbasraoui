@@ -21,7 +21,6 @@
 
 **🗄 Bases de données :**  
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
-![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
 **🛠 Outils & DevOps :**  
 
