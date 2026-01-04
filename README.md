@@ -1,4 +1,4 @@
-# 👋 Salut, je suis **Soufiane El Basraoui**
+#  Salut, je suis **Soufiane El Basraoui**
 
 🌟 **Développeur Web Full-Stack passionné par la création d’applications modernes, performantes et bien structurées.**  
 J’aime transformer des idées en solutions digitales fiables et optimisées.
