@@ -48,7 +48,7 @@
 ---
 
 ## 📊 Stats GitHub
-![Soufiane's GitHub stats](https://github-readme-stats.vercel.app/api?username=Soufianeelbasraoui&show_icons=true&theme=react)
+
 
 ![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soufianeelbasraoui&layout=compact&theme=react)
 
