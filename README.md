@@ -1,13 +1,13 @@
 #  Salut, je suis **Soufiane El Basraoui**
 
-🌟 **Développeur Web Full-Stack passionné par la création d’applications modernes, performantes et bien structurées.**  
+ **Développeur Web Full-Stack passionné par la création d’applications modernes, performantes et bien structurées.**  
 J’aime transformer des idées en solutions digitales fiables et optimisées.
 
 ---
 
-## 🛠️ Compétences techniques
+##  Compétences techniques
 
-### 🎨 Front-End
+###  Front-End
 ![HTML](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
 ![CSS](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=flat-square&logo=bootstrap&logoColor=white)
@@ -16,19 +16,19 @@ J’aime transformer des idées en solutions digitales fiables et optimisées.
 
 ---
 
-### ⚙️ Back-End
+###  Back-End
 ![PHP](https://img.shields.io/badge/PHP-777BB4?style=flat-square&logo=php&logoColor=white)
 ![Laravel](https://img.shields.io/badge/Laravel-FF2D20?style=flat-square&logo=laravel&logoColor=white)
 
 ---
 
-### 🗄 Bases de données
+###  Bases de données
 ![MySQL](https://img.shields.io/badge/MySQL-005C84?style=flat-square&logo=mysql&logoColor=white)
 ![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white)
 
 ---
 
-### 🛠 Outils & DevOps
+###  Outils & DevOps
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
