@@ -45,12 +45,6 @@
 - Docker 🐳  
 - Architecture MVC & Clean Code 🧠  
 
----
-
-## 📊 Stats GitHub
-
-
-![Top Langages](https://github-readme-stats.vercel.app/api/top-langs/?username=Soufianeelbasraoui&layout=compact&theme=react)
 
 ---
 
