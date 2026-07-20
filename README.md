@@ -20,7 +20,7 @@ I'm a Full-Stack developer focused on turning ideas into production-ready applic
 - 🔭 Currently working on Full-Stack applications with secure API architectures
 - 🌱 Currently deepening my knowledge of **Spring Boot**, **JWT Authentication**, **Docker**, and **Clean Architecture / MVC**
 - 🤝 Open to collaborating on Full-Stack, API, or open-source projects
-- 📫 Reach me at **elba@gmail.com**
+- 📫 Reach me at **soufianeelbasraoui0@gmail.com**
 
 <br>
 
@@ -59,31 +59,6 @@ I'm a Full-Stack developer focused on turning ideas into production-ready applic
 ![Git](https://img.shields.io/badge/Git-F05033?style=flat-square&logo=git&logoColor=white)
 ![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
 ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=flat-square&logo=postman&logoColor=white)
-
-</td>
-</tr>
-</table>
-
-<br>
-
-## Featured Projects
-
-<table>
-<tr>
-<td width="50%">
-
-**Project Name**
-Short description of what it does and the problem it solves.
-`React` `Node.js` `MongoDB`
-[Live Demo](#) · [Source](#)
-
-</td>
-<td width="50%">
-
-**Project Name**
-Short description of what it does and the problem it solves.
-`Laravel` `MySQL` `REST API`
-[Live Demo](#) · [Source](#)
 
 </td>
 </tr>
